@@ -74,14 +74,14 @@ Production SaaS chat platform with real-time widget, Angular back office, and mu
 <tr>
 <td width="50%">
 
-### ZIRATH *(in development)*
-Digital security SaaS for Latin America — data exposure scanner, panic mode, IMEI registry.
+### 🔒 Stealth Project
+Something big is coming for Latin America.
+Not ready to talk about it yet.
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Status](https://img.shields.io/badge/in_dev-c4b5fd?style=flat)
+![Status](https://img.shields.io/badge/stealth_mode-c4b5fd?style=flat&labelColor=0d1117)
+![Region](https://img.shields.io/badge/LatAm-🌎-6ee7b7?style=flat&labelColor=0d1117)
 
-🔒 Freemium · Peru/LatAm · AWS
+👁️ Follow to find out first
 
 </td>
 <td width="50%">
@@ -137,7 +137,7 @@ from your GitHub profile.
 ## ⚡ Currently
 
 - 🔨 Maintaining **claude-polyrouter** — open source model router for Claude Code
-- 🏗️ Building **ZIRATH** — digital security platform for LatAm
+- 🏗️ Building something for LatAm — stealth mode 🔒
 - 📚 Exploring **Go** and AI/LLM tooling patterns
 - 🎮 ADC main on LAS (Yunara & Kai'Sa)
 
