@@ -8,7 +8,7 @@ Building production systems for iGaming & SaaS · Open Source Author · Always l
 
 [![GitHub followers](https://img.shields.io/github/followers/SonyHarv?style=flat&color=6ee7b7&labelColor=0d1117&label=followers)](https://github.com/SonyHarv)
 [![Profile views](https://komarev.com/ghpvc/?username=SonyHarv&style=flat&color=6ee7b7&labelColor=0d1117)](https://github.com/SonyHarv)
-[![claude-polyrouter](https://img.shields.io/badge/claude--polyrouter-v1.2.1-6ee7b7?style=flat&labelColor=0d1117)](https://github.com/SonyHarv/claude-polyrouter)
+[![claude-polyrouter](https://img.shields.io/badge/claude--polyrouter-v1.4.0-6ee7b7?style=flat&labelColor=0d1117)](https://github.com/SonyHarv/claude-polyrouter)
 
 </div>
 
@@ -49,13 +49,14 @@ Building production systems for iGaming & SaaS · Open Source Author · Always l
 <td width="50%">
 
 ### [claude-polyrouter](https://github.com/SonyHarv/claude-polyrouter)
-Multilingual model router for Claude Code. Routes each query to the optimal model tier automatically.
+Intelligent model router for Claude Code — 82% less token waste, 10 languages, zero setup.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Version](https://img.shields.io/badge/v1.2.1-6ee7b7?style=flat)
+![Version](https://img.shields.io/badge/v1.4.0-6ee7b7?style=flat)
+![Tests](https://img.shields.io/badge/501_tests-passing-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/MIT-green?style=flat)
 
-✅ 10 languages · zero config · save 40-80% on tokens
+✅ 100% accuracy · 10 languages · 82% token reduction · 501 tests
 
 </td>
 <td width="50%">
