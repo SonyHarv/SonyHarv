@@ -49,7 +49,7 @@ Building production systems for iGaming & SaaS · Open Source Author · Always l
 <td width="50%">
 
 ### [claude-polyrouter](https://github.com/SonyHarv/claude-polyrouter)
-Intelligent model router for Claude Code with live HUD — exec model transparency, session isolation, context-aware routing, verifiability routing (Karpathy), native OAuth usage polling (`5h`/`wk`/`snt`/`extra`), 🧠 thinking indicator, 📁 CWD, dynamic effort (`medium`/`high`/`xhigh`), Opus 4.7 sub-effort, 10 languages.
+Intelligent model router for Claude Code with live HUD — exec model transparency, session isolation, context-aware routing, verifiability routing (Karpathy), native OAuth usage polling (`5h`/`wk`/`snt`/`extra`), 🧠 thinking indicator, 📁 CWD, dynamic effort (`medium`/`high`/`xhigh`), Opus 4.8 sub-effort, 10 languages.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/v1.9.5-6ee7b7?style=flat)
